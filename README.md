@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello ! ✌️, I'm Joydeep</h1>
+<h1 align="center"><a href="https://www.linkedin.com/in/joydeep-dey-52234a1aa/">Hello ! ✌️, I'm Joydeep</a></h1>
 <h3 align="center">Software Engineering Student && Freelance Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joy-10&label=Profile%20views&color=0e75b6&style=flat" alt="Joydeep" /> </p>
 
@@ -14,7 +14,7 @@
 - 👨‍💻 Solving DSA .<br>
 - 💻 Freelance Web Developer .<br>
 - 📫 MERN && core PHP.<br>
-<a href="https://www.linkedin.com/in/joydeep-dey-52234a1aa/">- 💬 Connect to Collaborate </a>.<br>
+- 💬 Connect to Collaborate .<br>
                                                                                         
                                                                                                                                                                                                                                                                                                                                                           
 ### ⚡ Github Stats
