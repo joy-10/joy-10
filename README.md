@@ -10,7 +10,7 @@
 <br/>
 
 - 🌱 Currently Pursuing MCA at <b>NIT , Warangal</b> .<br>
-- 📖 Learning new things daily.<br>
+- 📖 Learning new things.<br>
 - 👨‍💻 Solving DSA .<br>
 - 💻 Freelance Web Developer .<br>
 - 📫 MERN && core PHP.<br>
