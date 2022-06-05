@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://www.hackerrank.com/joydeepdey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Joydeep" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jdmc20112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Joydeep" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jdcodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Joydeep" height="30" width="40" /></a>
 </p>
 <br/>
 
